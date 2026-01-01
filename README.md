@@ -13,8 +13,8 @@ Frontend: React (Vite), HTML, CSS, JavaScript
 Backend: Node.js, Express
 
 Database: MongoDB
-Project Structure
-Client-Admin | Client-user | server
+
+
 
 
 
